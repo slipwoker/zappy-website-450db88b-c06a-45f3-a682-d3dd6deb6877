@@ -1,47 +1,57 @@
-# Business — Generative Engine Optimization Map
+# נעלי רוקי — Generative Engine Optimization Map
+
+> A קמעונאות והנעלה business.
 
 ---
 
 ## Pages
 
 ### Home
-https://example.com
+https://naale-rocky.zappy5.app
 
 ### Story
-https://example.com/story
+https://naale-rocky.zappy5.app/story
 
 ### Lookbook
-https://example.com/lookbook
+https://naale-rocky.zappy5.app/lookbook
 
 ### Contact
-https://example.com/contact
+https://naale-rocky.zappy5.app/contact
 
 ### יומן / מגזין
-https://example.com/journal
+https://naale-rocky.zappy5.app/journal
 נעלי רוקי - יומן / מגזין
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://naale-rocky.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://naale-rocky.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://naale-rocky.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About נעלי רוקי
+נעלי רוקי is a business in the קמעונאות והנעלה industry.
+
+## Target Audience
+ילדים ומבוגרים שצריכים נעליים
+
+## Industry
+קמעונאות והנעלה
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://naale-rocky.zappy5.app/sitemap.xml
+- **Robots.txt**: https://naale-rocky.zappy5.app/robots.txt
