@@ -1,4 +1,6 @@
-# Business — Generative Engine Optimization Map
+# נעלי רוקי — Generative Engine Optimization Map
+
+> A קמעונאות והנעלה business.
 
 ---
 
@@ -61,7 +63,15 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About נעלי רוקי
+נעלי רוקי is a business in the קמעונאות והנעלה industry.
+
+## Target Audience
+ילדים ומבוגרים שצריכים נעליים
+
+## Industry
+קמעונאות והנעלה
+
 ---
 
 # Additional Resources
