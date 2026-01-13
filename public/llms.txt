@@ -1,6 +1,4 @@
-# נעלי רוקי — Generative Engine Optimization Map
-
-> A קמעונאות והנעלה business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -16,11 +14,34 @@ https://naale-rocky.zappy5.app/story
 https://naale-rocky.zappy5.app/lookbook
 
 ### Contact
-https://naale-rocky.zappy5.app/contact
+https://naale-rocky.zappy5.app/contact-us
 
-### יומן / מגזין
-https://naale-rocky.zappy5.app/journal
-נעלי רוקי - יומן / מגזין
+### מגזין נעלי רוקי
+https://naale-rocky.zappy5.app/blog
+נעלי רוקי - מגזין נעלי רוקי
+
+### ילדים
+https://naale-rocky.zappy5.app/blog/choosing-kids-shoes
+מדריך מקיף להורים לבחירת נעליים בריאות, נוחות ומתאימות לילדים בכל גיל.
+
+### נוחות
+https://naale-rocky.zappy5.app/blog/comfortable-everyday-shoes
+סקירה של המרכיבים שהופכים נעל יומיומית לנוחה באמת – מהסוליה ועד המבנה.
+
+### בית־ספר
+https://naale-rocky.zappy5.app/blog/shoes-for-school
+טיפים חשובים לבחירת נעליים עמידות, נוחות ומתאימות לשגרת בית הספר.
+
+### תחזוקה
+https://naale-rocky.zappy5.app/blog/shoe-care-tips
+מדריך שימושי לשמירה על נעליים נקיות, נוחות ועמידות לאורך זמן.
+
+### מידות
+https://naale-rocky.zappy5.app/blog/shoe-sizing-guide
+נעלי רוקי - איך לבחור מידה נכונה לנעליים
+
+### Page
+https://naale-rocky.zappy5.app/test-page
 
 ## Legal & Policy
 
@@ -40,15 +61,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About נעלי רוקי
-נעלי רוקי is a business in the קמעונאות והנעלה industry.
-
-## Target Audience
-ילדים ומבוגרים שצריכים נעליים
-
-## Industry
-קמעונאות והנעלה
-
+## About Business
 ---
 
 # Additional Resources
