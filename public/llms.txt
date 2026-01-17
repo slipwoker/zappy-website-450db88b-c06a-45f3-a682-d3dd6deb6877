@@ -1,6 +1,4 @@
-# נעלי רוקי — Generative Engine Optimization Map
-
-> A קמעונאות והנעלה business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -36,7 +34,7 @@ https://naale-rocky.zappy5.app/contact
 
 ### החלפה
 https://naale-rocky.zappy5.app/blog/when-to-replace-shoes
-נעלי רוקי - מתי צריך להחליף נעליים
+נעלי רוקי - מתי מומלץ להחליף נעליים
 
 ## Legal & Policy
 
@@ -56,15 +54,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About נעלי רוקי
-נעלי רוקי is a business in the קמעונאות והנעלה industry.
-
-## Target Audience
-ילדים ומבוגרים שצריכים נעליים
-
-## Industry
-קמעונאות והנעלה
-
+## About Business
 ---
 
 # Additional Resources
