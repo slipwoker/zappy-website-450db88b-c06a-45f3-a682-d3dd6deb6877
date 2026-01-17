@@ -1,49 +1,40 @@
-# נעלי רוקי — Generative Engine Optimization Map
-
-> A קמעונאות והנעלה business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
-### Home
+### Page
 https://naale-rocky.zappy5.app
 
-### Story
+### Page
 https://naale-rocky.zappy5.app/story
 
-### Lookbook
+### Page
 https://naale-rocky.zappy5.app/lookbook
-
-### Contact
-https://naale-rocky.zappy5.app/contact-us
 
 ### מגזין נעלי רוקי
 https://naale-rocky.zappy5.app/blog
 נעלי רוקי - מגזין נעלי רוקי
 
-### ילדים
-https://naale-rocky.zappy5.app/blog/choosing-kids-shoes
-מדריך מקיף להורים לבחירת נעליים בריאות, נוחות ומתאימות לילדים בכל גיל.
+### איך בוחרים נעלי ילדים: מדריך התאמה שלא מפספס
+https://naale-rocky.zappy5.app/blog/choose-kids-fit
+מדריך פרקטי לבחירת נעלי ילדים: מדידה נכונה, מרווח אצבעות, רוחב, תמיכה וסימנים שהגיע הזמן למידה חדשה.
 
-### נוחות
-https://naale-rocky.zappy5.app/blog/comfortable-everyday-shoes
-סקירה של המרכיבים שהופכים נעל יומיומית לנוחה באמת – מהסוליה ועד המבנה.
+### ניקוי ותחזוקת נעליים: מה באמת עובד (ולמה להימנע)
+https://naale-rocky.zappy5.app/blog/sneaker-care-guide
+מדריך לתחזוקת נעליים לפי חומר: עור, זמש, בד ורשת—כולל טעויות נפוצות, ייבוש נכון ושמירה על צורה.
 
-### בית־ספר
-https://naale-rocky.zappy5.app/blog/shoes-for-school
-טיפים חשובים לבחירת נעליים עמידות, נוחות ומתאימות לשגרת בית הספר.
-
-### תחזוקה
-https://naale-rocky.zappy5.app/blog/shoe-care-tips
-מדריך שימושי לשמירה על נעליים נקיות, נוחות ועמידות לאורך זמן.
-
-### מידות
-https://naale-rocky.zappy5.app/blog/shoe-sizing-guide
-נעלי רוקי - איך לבחור מידה נכונה לנעליים
+### עומדים כל היום? כך תבחרו נעליים נוחות לעבודה
+https://naale-rocky.zappy5.app/blog/comfort-work-shoes
+מדריך לבחירת נעליים לעמידה ממושכת: תמיכה בקשת, שיכוך, רוחב, יציבות והבדלים בין סוליות וחומרים.
 
 ### Page
-https://naale-rocky.zappy5.app/test-page
+https://naale-rocky.zappy5.app/contact
+
+### החלפה
+https://naale-rocky.zappy5.app/blog/when-to-replace-shoes
+נעלי רוקי - מתי צריך להחליף נעליים
 
 ## Legal & Policy
 
@@ -63,15 +54,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About נעלי רוקי
-נעלי רוקי is a business in the קמעונאות והנעלה industry.
-
-## Target Audience
-ילדים ומבוגרים שצריכים נעליים
-
-## Industry
-קמעונאות והנעלה
-
+## About Business
 ---
 
 # Additional Resources
