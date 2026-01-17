@@ -665,7 +665,7 @@ em, i {
 }
 
 /* Footer Styles */
-:root{--primary:#101114;--secondary:#B9A89A;--accent:#B9FF2C;--background:#F4F1EC;--background-dark:#2B2A28;--text-dark:#101114;--text-light:#F4F1EC}html[dir="rtl"] .site-footer{background-color:var(--background-dark);color:var(--text-light);padding:60px 20px 30px;direction:rtl;font-family: 'Rubik', sans-serif}.footer-container{max-width:1200px;margin:0 auto}.footer-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:40px;margin-bottom:40px;padding-bottom:40px;border-bottom:1px solid rgba(249,241,236,0.15)}.footer-column h3{color:var(--accent);font-size:18px;font-weight:700;margin-bottom:20px;text-transform:uppercase;letter-spacing:0.5px}.footer-about .logo{margin-bottom:20px;filter:brightness(0) invert(1)}.footer-description{color:var(--text-light);line-height:1.6;margin-bottom:25px;opacity:0.9;font-size:14px}.social-links{display:flex;gap:15px}.social-links a{display:flex;align-items:center;justify-content:center;width:40px;height:40px;background-color:rgba(249,241,236,0.1);color:var(--text-light);border-radius:50%;transition:all 0.3s ease;text-decoration:none;border:1px solid rgba(249,241,236,0.2)}.social-links a:hover{background-color:var(--accent);color:var(--primary);transform:translateY(-3px);border-color:var(--accent)}.social-links i{font-size:16px}.footer-links ul,.footer-contact .contact-list{list-style:none;padding:0;margin:0}.footer-links li{margin-bottom:12px}.footer-links a{color:var(--text-light);text-decoration:none;transition:all 0.3s ease;display:inline-block;font-size:15px;opacity:0.9}.footer-links a:hover{color:var(--accent);padding-right:8px}.footer-contact .contact-list li{display:flex;align-items:flex-start;gap:12px;margin-bottom:16px;color:var(--text-light);font-size:14px;opacity:0.9}.footer-contact .contact-list i{color:var(--accent);margin-top:3px;min-width:16px;font-size:14px}.footer-contact .contact-list a{color:var(--text-light);text-decoration:none;transition:color 0.3s ease}.footer-contact .contact-list a:hover{color:var(--accent)}.footer-bottom{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:20px;padding-top:30px}.footer-legal{display:flex;flex-wrap:wrap;align-items:center;gap:12px;font-size:13px}.footer-legal a{color:var(--text-light);text-decoration:none;transition:color 0.3s ease;opacity:0.9}.footer-legal a:hover{color:var(--accent)}.footer-legal .separator{color:var(--text-light);opacity:0.4}.footer-copyright{display:flex;flex-wrap:wrap;align-items:center;gap:15px;font-size:13px}.footer-copyright p{margin:0;color:var(--text-light);opacity:0.8}.zappy-attribution{color:var(--accent);text-decoration:none;font-weight:600;transition:all 0.3s ease;padding:4px 12px;border:1px solid var(--accent);border-radius:4px;font-size:12px}.zappy-attribution:hover{background-color:var(--accent);color:var(--primary)}@media(max-width:768px){.site-footer{padding:40px 20px 20px}.footer-grid{grid-template-columns:1fr;gap:35px;margin-bottom:30px;padding-bottom:30px}.footer-column{text-align:center}.footer-about .logo{margin-inline:auto}.social-links{justify-content:center}.footer-contact .contact-list li{justify-content:center;text-align:right}.footer-bottom{flex-direction:column;text-align:center;padding-top:20px}.footer-legal{justify-content:center}.footer-copyright{flex-direction:column;gap:10px}}
+:root{--primary:#101114;--secondary:#B9A89A;--accent:#B9FF2C;--background:#F4F1EC;--background-dark:#2B2A28;--text-dark:#101114;--text-light:#F4F1EC}.site-footer{background-color:var(--background-dark);color:var(--text-light);padding:60px 20px 30px;font-family: 'Rubik', sans-serif;}html[dir="rtl"] .site-footer{direction:rtl;}.footer-container{max-width:1200px;margin:0 auto}.footer-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:40px;margin-bottom:40px;padding-bottom:40px;border-bottom:1px solid rgba(249,241,236,0.15)}.footer-column h3{color:var(--accent);font-size:18px;font-weight:700;margin-bottom:20px;text-transform:uppercase;letter-spacing:0.5px}.footer-about .logo{margin-bottom:20px;filter:brightness(0) invert(1)}.footer-description{color:var(--text-light);line-height:1.6;margin-bottom:25px;opacity:0.9;font-size:14px}.social-links{display:flex;gap:15px}.social-links a{display:flex;align-items:center;justify-content:center;width:40px;height:40px;background-color:rgba(249,241,236,0.1);color:var(--text-light);border-radius:50%;transition:all 0.3s ease;text-decoration:none;border:1px solid rgba(249,241,236,0.2)}.social-links a:hover{background-color:var(--accent);color:var(--primary);transform:translateY(-3px);border-color:var(--accent)}.social-links i{font-size:16px}.footer-links ul,.footer-contact .contact-list{list-style:none;padding:0;margin:0}.footer-links li{margin-bottom:12px}.footer-links a{color:var(--text-light);text-decoration:none;transition:all 0.3s ease;display:inline-block;font-size:15px;opacity:0.9}.footer-links a:hover{color:var(--accent);padding-right:8px}.footer-contact .contact-list li{display:flex;align-items:flex-start;gap:12px;margin-bottom:16px;color:var(--text-light);font-size:14px;opacity:0.9}.footer-contact .contact-list i{color:var(--accent);margin-top:3px;min-width:16px;font-size:14px}.footer-contact .contact-list a{color:var(--text-light);text-decoration:none;transition:color 0.3s ease}.footer-contact .contact-list a:hover{color:var(--accent)}.footer-bottom{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:20px;padding-top:30px}.footer-legal{display:flex;flex-wrap:wrap;align-items:center;gap:12px;font-size:13px}.footer-legal a{color:var(--text-light);text-decoration:none;transition:color 0.3s ease;opacity:0.9}.footer-legal a:hover{color:var(--accent)}.footer-legal .separator{color:var(--text-light);opacity:0.4}.footer-copyright{display:flex;flex-wrap:wrap;align-items:center;gap:15px;font-size:13px}.footer-copyright p{margin:0;color:var(--text-light);opacity:0.8}.zappy-attribution{color:var(--accent);text-decoration:none;font-weight:600;transition:all 0.3s ease;padding:4px 12px;border:1px solid var(--accent);border-radius:4px;font-size:12px}.zappy-attribution:hover{background-color:var(--accent);color:var(--primary)}@media(max-width:768px){.site-footer{padding:40px 20px 20px}.footer-grid{grid-template-columns:1fr;gap:35px;margin-bottom:30px;padding-bottom:30px}.footer-column{text-align:center}.footer-about .logo{margin-inline:auto}.social-links{justify-content:center}.footer-contact .contact-list li{justify-content:center;text-align:right}.footer-bottom{flex-direction:column;text-align:center;padding-top:20px}.footer-legal{justify-content:center}.footer-copyright{flex-direction:column;gap:10px}}
 
 /* home-hero */
 :root {
@@ -1436,7 +1436,7 @@ em, i {
 
 .story-hero-section .story-hero-container{max-width:1400px;width:100%;margin:0 auto;display:grid;grid-template-columns:1fr 1fr;gap:0;align-items:center;min-height:85vh}
 
-.story-hero-section .story-hero-content{padding:80px 60px 80px 80px;display:flex;flex-direction:column;justify-content:center;gap:32px;max-width:580px}html[dir="rtl"] .story-hero-section .story-hero-title{font-family: 'Rubik', sans-serif;font-size:52px;font-weight:400;line-height:1.15;letter-spacing:0.01em;color:var(--text-dark);margin:0;direction:rtl}html[dir="rtl"] .story-hero-section .story-hero-text{font-family: 'Rubik', sans-serif;font-size:16px;font-weight:400;line-height:1.8;color:var(--text-dark);margin:0;opacity:0.85;max-width:520px;direction:rtl}.story-hero-section .story-hero-cta{display:inline-block;padding:16px 40px;background:var(--primary);color:var(--text-light);font-family: 'Rubik', sans-serif;font-size:14px;font-weight:500;text-decoration:none;border-radius:var(--radius-0);transition:all var(--ease);box-shadow:var(--shadow-soft);align-self:flex-start;}html[dir="rtl"] .story-hero-section .story-hero-cta{direction:rtl;}
+.story-hero-section .story-hero-content{padding:80px 60px 80px 80px;display:flex;flex-direction:column;justify-content:center;gap:32px;max-width:580px}.story-hero-section .story-hero-title{font-family: 'Rubik', sans-serif;font-size:52px;font-weight:400;line-height:1.15;letter-spacing:0.01em;color:var(--text-dark);margin:0;}html[dir="rtl"] .story-hero-section .story-hero-title{direction:rtl;}.story-hero-section .story-hero-text{font-family: 'Rubik', sans-serif;font-size:16px;font-weight:400;line-height:1.8;color:var(--text-dark);margin:0;opacity:0.85;max-width:520px;}html[dir="rtl"] .story-hero-section .story-hero-text{direction:rtl;}.story-hero-section .story-hero-cta{display:inline-block;padding:16px 40px;background:var(--primary);color:var(--text-light);font-family: 'Rubik', sans-serif;font-size:14px;font-weight:500;text-decoration:none;border-radius:var(--radius-0);transition:all var(--ease);box-shadow:var(--shadow-soft);align-self:flex-start;}html[dir="rtl"] .story-hero-section .story-hero-cta{direction:rtl;}
 
 .story-hero-section .story-hero-cta:hover{background:#1F1E1D;box-shadow:var(--shadow-medium);transform:translateY(-2px)}
 
@@ -1495,12 +1495,7 @@ em, i {
   --ease: 220ms ease;
   --text-dark: #1F1E1D;
   --text-light: #FFFFFF;
-}html[dir="rtl"] .story-features-section{
-  background: var(--bg-light);
-  font-family: 'Rubik', sans-serif;
-  direction: rtl;
-  overflow: hidden;
-}
+}.story-features-section{background: var(--bg-light);font-family: 'Rubik', sans-serif;overflow: hidden;}html[dir="rtl"] .story-features-section{direction: rtl;}
 
 .story-features-section .story-features-container {
   max-width: 1200px;
@@ -3096,7 +3091,7 @@ html[lang="ar"] .nav-container{flex-direction: row-reverse !important;justify-co
 /* CTA on the left in RTL */
 .nav-cta-container,
 html[lang="he"] .nav-cta-container,
-html[lang="ar"] .nav-cta-container{order: -1 !important;}html[dir="rtl"] .nav-cta-container,
+html[lang="ar"] .nav-cta-container{order: -1 !important;}.nav-cta-container,
 html[lang="he"] .nav-cta-container,
 html[lang="ar"] .nav-cta-container{margin: 0;}
 
@@ -3311,32 +3306,21 @@ html[lang="ar"] .nav-right-group .nav-menu{order: 1 !important;}
    (natural mirror of LTR layout)
    ============================================ */
 @media (max-width: 768px) {
-  html[dir="rtl"] .mobile-toggle,
+  .mobile-toggle,
   html[lang="he"] .mobile-toggle,
-  html[lang="ar"] .mobile-toggle {
-    left: auto;
-    right: 15px;
-  }
+  html[lang="ar"] .mobile-toggle{left: auto;right: 15px;}
   
-  html[dir="rtl"] .phone-header-btn,
+  .phone-header-btn,
   html[lang="he"] .phone-header-btn,
-  html[lang="ar"] .phone-header-btn {
-    left: 15px;
-    right: auto;
-  }
+  html[lang="ar"] .phone-header-btn{left: 15px;right: auto;}
   
-  html[dir="rtl"] .nav-menu,
+  .nav-menu,
   html[lang="he"] .nav-menu,
-  html[lang="ar"] .nav-menu {
-    right: 0;
-    left: auto;
-  }
+  html[lang="ar"] .nav-menu{right: 0;left: auto;}
   
-  html[dir="rtl"] .nav-menu a,
+  .nav-menu a,
   html[lang="he"] .nav-menu a,
-  html[lang="ar"] .nav-menu a {
-    text-align: right;
-  }
+  html[lang="ar"] .nav-menu a{text-align: right;}
 }
 
 /* ============================================
@@ -3783,7 +3767,15 @@ html[dir="rtl"] .wrapper {
 }
 
 /* ONLY apply text-align to legal page content that needs RTL alignment */
-html[dir="rtl"] .legal-content,
+.legal-content,
+.terms-content,
+html[dir="rtl"] .privacy-content,
+html[dir="rtl"] .legal-content p,
+html[dir="rtl"] .terms-content p,
+html[dir="rtl"] .privacy-content p,
+html[dir="rtl"] .legal-content li,
+html[dir="rtl"] .terms-content li,
+html[dir="rtl"] .privacy-content li{text-align: right !important;}html[dir="rtl"] .legal-content,
 html[dir="rtl"] .terms-content,
 html[dir="rtl"] .privacy-content,
 html[dir="rtl"] .legal-content p,
@@ -3791,10 +3783,7 @@ html[dir="rtl"] .terms-content p,
 html[dir="rtl"] .privacy-content p,
 html[dir="rtl"] .legal-content li,
 html[dir="rtl"] .terms-content li,
-html[dir="rtl"] .privacy-content li {
-  direction: rtl !important;
-  text-align: right !important;
-}
+html[dir="rtl"] .privacy-content li{direction: rtl !important;}
 
 /* ============================================
    V2 NAVIGATION PRESERVATION
@@ -3825,10 +3814,397 @@ html[dir="rtl"] .privacy-content li {
 }
 
 /* RTL: Move to left side */
-html[dir="rtl"] .zappy-lang-switcher-container {
-  right: auto;
-  left: 12px;
+.zappy-lang-switcher-container{right: auto;left: 12px;}
+
+
+  
+  .zappy-lang-switcher-container{right: auto;left: 8px;}
+  
+  .lang-switcher-current {
+    padding: 6px;
+  }
+  
+  .lang-option {
+    padding: 10px 14px;
+    font-size: 13px;
+  }
+  
+  /* FIX: Prevent lang-switcher-dropdown from extending past viewport in RTL mobile */
+  /* The dropdown was causing horizontal overflow with left: 0 in RTL */
+  .lang-switcher-dropdown{left: auto !important;right: 0 !important;}
 }
+
+/* ===========================================
+   RTL MOBILE HORIZONTAL OVERFLOW FIX
+   Prevents left whitespace gap in RTL mobile
+   caused by elements extending past viewport
+   =========================================== */
+
+/* Prevent horizontal scroll on RTL pages */
+,
+html[dir="rtl"] body{overflow-x: hidden !important;max-width: 100vw !important;}
+
+/* Ensure carousel containers clip overflow to prevent horizontal scroll */
+.zappy-carousel-container,
+.zappy-carousel-wrapper,
+.benefits-section,
+.testimonials-section,
+[class*="carousel"] {
+  overflow-x: hidden !important;
+}
+
+/* Ensure lang-switcher parent clips its positioned children */
+.lang-switcher {
+  overflow: visible; /* Keep visible for dropdown to show */
+}
+
+/* ===========================================
+   MOBILE NAV BUTTON POSITIONING
+   Default (LTR): hamburger LEFT, phone RIGHT
+   RTL: hamburger RIGHT, phone LEFT (mirrored)
+   =========================================== */
+@media (max-width: 768px) {
+  /* DEFAULT positioning for mobile nav buttons */
+  /* This ensures hamburger LEFT, phone RIGHT for LTR pages */
+  .mobile-toggle {
+    position: absolute !important;
+    left: 15px !important;
+    right: auto !important;
+    top: 50% !important;
+    transform: translateY(-50%) !important;
+  }
+  
+  .phone-header-btn {
+    position: absolute !important;
+    right: 15px !important;
+    left: auto !important;
+    top: 50% !important;
+    transform: translateY(-50%) !important;
+  }
+  
+  /* Default mobile menu slides from LEFT */
+  .nav-menu {
+    left: 0 !important;
+    right: auto !important;
+  }
+  
+  /* RTL lang-switcher dropdown constraint */
+  .lang-switcher{position: relative;}
+  
+  .lang-switcher-dropdown{left: auto !important;right: 0 !important;max-width: calc(100vw - 20px);}
+  
+  /* ===========================================
+     RTL MOBILE NAV BUTTON POSITIONING
+     In RTL: hamburger RIGHT, phone LEFT (mirror of LTR)
+     =========================================== */
+  .mobile-toggle,
+  html[lang="he"] .mobile-toggle,
+  html[lang="ar"] .mobile-toggle{left: auto !important;right: 15px !important;}
+  
+  .phone-header-btn,
+  html[lang="he"] .phone-header-btn,
+  html[lang="ar"] .phone-header-btn{left: 15px !important;right: auto !important;}
+  
+  /* RTL mobile menu slides from RIGHT */
+  .nav-menu,
+  html[lang="he"] .nav-menu,
+  html[lang="ar"] .nav-menu{left: auto !important;right: 0 !important;}
+}
+
+
+
+/* ============================================
+   DIRECTION OVERRIDE STYLES
+   Only set direction property, NOT text-align
+   This preserves centered elements
+   ============================================ */
+
+/* Base direction for LTR */
+html[dir="ltr"], html[dir="ltr"] body {
+  direction: ltr !important;
+}
+
+html[dir="ltr"] main,
+html[dir="ltr"] article,
+html[dir="ltr"] section,
+html[dir="ltr"] .content,
+html[dir="ltr"] .container,
+html[dir="ltr"] .wrapper {
+  direction: ltr !important;
+}
+
+/* ONLY apply text-align to legal page content that needs LTR alignment */
+html[dir="ltr"] .legal-content,
+html[dir="ltr"] .terms-content,
+html[dir="ltr"] .privacy-content,
+html[dir="ltr"] .legal-content p,
+html[dir="ltr"] .terms-content p,
+html[dir="ltr"] .privacy-content p,
+html[dir="ltr"] .legal-content li,
+html[dir="ltr"] .terms-content li,
+html[dir="ltr"] .privacy-content li {
+  direction: ltr !important;
+  text-align: left !important;
+}
+
+/* Base direction for RTL */
+html[dir="rtl"], html[dir="rtl"] body {
+  direction: rtl !important;
+}
+
+html[dir="rtl"] main,
+html[dir="rtl"] article,
+html[dir="rtl"] section,
+html[dir="rtl"] .content,
+html[dir="rtl"] .container,
+html[dir="rtl"] .wrapper {
+  direction: rtl !important;
+}
+
+/* ONLY apply text-align to legal page content that needs RTL alignment */
+.legal-content,
+.terms-content,
+html[dir="rtl"] .privacy-content,
+html[dir="rtl"] .legal-content p,
+html[dir="rtl"] .terms-content p,
+html[dir="rtl"] .privacy-content p,
+html[dir="rtl"] .legal-content li,
+html[dir="rtl"] .terms-content li,
+html[dir="rtl"] .privacy-content li{text-align: right !important;}html[dir="rtl"] .legal-content,
+html[dir="rtl"] .terms-content,
+html[dir="rtl"] .privacy-content,
+html[dir="rtl"] .legal-content p,
+html[dir="rtl"] .terms-content p,
+html[dir="rtl"] .privacy-content p,
+html[dir="rtl"] .legal-content li,
+html[dir="rtl"] .terms-content li,
+html[dir="rtl"] .privacy-content li{direction: rtl !important;}
+
+/* ============================================
+   V2 NAVIGATION PRESERVATION
+   CRITICAL: Do NOT set direction on nav/header flex containers!
+   Changing direction on flex containers reverses the visual order of items,
+   breaking V2 site layouts that were designed for a specific direction.
+   
+   The dir attribute on <html> handles text direction globally.
+   Original site CSS handles all navigation layout.
+   ============================================ */
+
+/* ============================================
+   V2 SAFE: Navigation layout preservation
+   Do NOT set direction on nav elements - it breaks flex layouts!
+   The dir attribute on <html> handles text direction.
+   Original site CSS handles navigation layout.
+   ============================================ */
+
+/* No direction overrides on navigation - preserve original V2 layouts */
+
+/* Language Switcher Container - Fixed Position */
+.zappy-lang-switcher-container {
+  position: fixed;
+  top: 12px;
+  right: 12px;
+  z-index: 9999;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+/* RTL: Move to left side */
+.zappy-lang-switcher-container{right: auto;left: 12px;}
+
+
+  
+  .zappy-lang-switcher-container{right: auto;left: 8px;}
+  
+  .lang-switcher-current {
+    padding: 6px;
+  }
+  
+  .lang-option {
+    padding: 10px 14px;
+    font-size: 13px;
+  }
+  
+  /* FIX: Prevent lang-switcher-dropdown from extending past viewport in RTL mobile */
+  /* The dropdown was causing horizontal overflow with left: 0 in RTL */
+  .lang-switcher-dropdown{left: auto !important;right: 0 !important;}
+}
+
+/* ===========================================
+   RTL MOBILE HORIZONTAL OVERFLOW FIX
+   Prevents left whitespace gap in RTL mobile
+   caused by elements extending past viewport
+   =========================================== */
+
+/* Prevent horizontal scroll on RTL pages */
+,
+html[dir="rtl"] body{overflow-x: hidden !important;max-width: 100vw !important;}
+
+/* Ensure carousel containers clip overflow to prevent horizontal scroll */
+.zappy-carousel-container,
+.zappy-carousel-wrapper,
+.benefits-section,
+.testimonials-section,
+[class*="carousel"] {
+  overflow-x: hidden !important;
+}
+
+/* Ensure lang-switcher parent clips its positioned children */
+.lang-switcher {
+  overflow: visible; /* Keep visible for dropdown to show */
+}
+
+/* ===========================================
+   MOBILE NAV BUTTON POSITIONING
+   Default (LTR): hamburger LEFT, phone RIGHT
+   RTL: hamburger RIGHT, phone LEFT (mirrored)
+   =========================================== */
+@media (max-width: 768px) {
+  /* DEFAULT positioning for mobile nav buttons */
+  /* This ensures hamburger LEFT, phone RIGHT for LTR pages */
+  .mobile-toggle {
+    position: absolute !important;
+    left: 15px !important;
+    right: auto !important;
+    top: 50% !important;
+    transform: translateY(-50%) !important;
+  }
+  
+  .phone-header-btn {
+    position: absolute !important;
+    right: 15px !important;
+    left: auto !important;
+    top: 50% !important;
+    transform: translateY(-50%) !important;
+  }
+  
+  /* Default mobile menu slides from LEFT */
+  .nav-menu {
+    left: 0 !important;
+    right: auto !important;
+  }
+  
+  /* RTL lang-switcher dropdown constraint */
+  .lang-switcher{position: relative;}
+  
+  .lang-switcher-dropdown{left: auto !important;right: 0 !important;max-width: calc(100vw - 20px);}
+  
+  /* ===========================================
+     RTL MOBILE NAV BUTTON POSITIONING
+     In RTL: hamburger RIGHT, phone LEFT (mirror of LTR)
+     =========================================== */
+  .mobile-toggle,
+  html[lang="he"] .mobile-toggle,
+  html[lang="ar"] .mobile-toggle{left: auto !important;right: 15px !important;}
+  
+  .phone-header-btn,
+  html[lang="he"] .phone-header-btn,
+  html[lang="ar"] .phone-header-btn{left: 15px !important;right: auto !important;}
+  
+  /* RTL mobile menu slides from RIGHT */
+  .nav-menu,
+  html[lang="he"] .nav-menu,
+  html[lang="ar"] .nav-menu{left: auto !important;right: 0 !important;}
+}
+
+
+
+/* ============================================
+   DIRECTION OVERRIDE STYLES
+   Only set direction property, NOT text-align
+   This preserves centered elements
+   ============================================ */
+
+/* Base direction for LTR */
+html[dir="ltr"], html[dir="ltr"] body {
+  direction: ltr !important;
+}
+
+html[dir="ltr"] main,
+html[dir="ltr"] article,
+html[dir="ltr"] section,
+html[dir="ltr"] .content,
+html[dir="ltr"] .container,
+html[dir="ltr"] .wrapper {
+  direction: ltr !important;
+}
+
+/* ONLY apply text-align to legal page content that needs LTR alignment */
+html[dir="ltr"] .legal-content,
+html[dir="ltr"] .terms-content,
+html[dir="ltr"] .privacy-content,
+html[dir="ltr"] .legal-content p,
+html[dir="ltr"] .terms-content p,
+html[dir="ltr"] .privacy-content p,
+html[dir="ltr"] .legal-content li,
+html[dir="ltr"] .terms-content li,
+html[dir="ltr"] .privacy-content li {
+  direction: ltr !important;
+  text-align: left !important;
+}
+
+/* Base direction for RTL */
+html[dir="rtl"], html[dir="rtl"] body {
+  direction: rtl !important;
+}
+
+html[dir="rtl"] main,
+html[dir="rtl"] article,
+html[dir="rtl"] section,
+html[dir="rtl"] .content,
+html[dir="rtl"] .container,
+html[dir="rtl"] .wrapper {
+  direction: rtl !important;
+}
+
+/* ONLY apply text-align to legal page content that needs RTL alignment */
+.legal-content,
+html[dir="rtl"] .terms-content,
+html[dir="rtl"] .privacy-content,
+html[dir="rtl"] .legal-content p,
+html[dir="rtl"] .terms-content p,
+html[dir="rtl"] .privacy-content p,
+html[dir="rtl"] .legal-content li,
+html[dir="rtl"] .terms-content li,
+html[dir="rtl"] .privacy-content li{text-align: right !important;}html[dir="rtl"] .legal-content,
+html[dir="rtl"] .terms-content,
+html[dir="rtl"] .privacy-content,
+html[dir="rtl"] .legal-content p,
+html[dir="rtl"] .terms-content p,
+html[dir="rtl"] .privacy-content p,
+html[dir="rtl"] .legal-content li,
+html[dir="rtl"] .terms-content li,
+html[dir="rtl"] .privacy-content li{direction: rtl !important;}
+
+/* ============================================
+   V2 NAVIGATION PRESERVATION
+   CRITICAL: Do NOT set direction on nav/header flex containers!
+   Changing direction on flex containers reverses the visual order of items,
+   breaking V2 site layouts that were designed for a specific direction.
+   
+   The dir attribute on <html> handles text direction globally.
+   Original site CSS handles all navigation layout.
+   ============================================ */
+
+/* ============================================
+   V2 SAFE: Navigation layout preservation
+   Do NOT set direction on nav elements - it breaks flex layouts!
+   The dir attribute on <html> handles text direction.
+   Original site CSS handles navigation layout.
+   ============================================ */
+
+/* No direction overrides on navigation - preserve original V2 layouts */
+
+/* Language Switcher Container - Fixed Position */
+.zappy-lang-switcher-container {
+  position: fixed;
+  top: 12px;
+  right: 12px;
+  z-index: 9999;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+/* RTL: Move to left side */
+.zappy-lang-switcher-container{right: auto;left: 12px;}
 
 /* Language Switcher Styles */
 .lang-switcher {
@@ -3896,14 +4272,9 @@ nav .lang-switcher,
   transition: background 0.15s ease;
 }
 
-html[dir="rtl"] .lang-option {
-  text-align: right;
-}
+.lang-option{text-align: right;}
 
-html[dir="rtl"] .lang-switcher-dropdown {
-  right: auto;
-  left: 0;
-}
+.lang-switcher-dropdown{right: auto;left: 0;}
 
 .lang-option:hover {
   background: #f5f5f5;
@@ -3916,10 +4287,7 @@ html[dir="rtl"] .lang-switcher-dropdown {
     right: 8px;
   }
   
-  html[dir="rtl"] .zappy-lang-switcher-container {
-    right: auto;
-    left: 8px;
-  }
+  .zappy-lang-switcher-container{right: auto;left: 8px;}
   
   .lang-switcher-current {
     padding: 6px;
@@ -3932,10 +4300,7 @@ html[dir="rtl"] .lang-switcher-dropdown {
   
   /* FIX: Prevent lang-switcher-dropdown from extending past viewport in RTL mobile */
   /* The dropdown was causing horizontal overflow with left: 0 in RTL */
-  html[dir="rtl"] .lang-switcher-dropdown {
-    left: auto !important;
-    right: 0 !important;
-  }
+  .lang-switcher-dropdown{left: auto !important;right: 0 !important;}
 }
 
 /* ===========================================
@@ -3945,11 +4310,8 @@ html[dir="rtl"] .lang-switcher-dropdown {
    =========================================== */
 
 /* Prevent horizontal scroll on RTL pages */
-html[dir="rtl"],
-html[dir="rtl"] body {
-  overflow-x: hidden !important;
-  max-width: 100vw !important;
-}
+,
+html[dir="rtl"] body{overflow-x: hidden !important;max-width: 100vw !important;}
 
 /* Ensure carousel containers clip overflow to prevent horizontal scroll */
 .zappy-carousel-container,
@@ -3996,41 +4358,26 @@ html[dir="rtl"] body {
   }
   
   /* RTL lang-switcher dropdown constraint */
-  html[dir="rtl"] .lang-switcher {
-    position: relative;
-  }
+  .lang-switcher{position: relative;}
   
-  html[dir="rtl"] .lang-switcher-dropdown {
-    left: auto !important;
-    right: 0 !important;
-    max-width: calc(100vw - 20px);
-  }
+  .lang-switcher-dropdown{left: auto !important;right: 0 !important;max-width: calc(100vw - 20px);}
   
   /* ===========================================
      RTL MOBILE NAV BUTTON POSITIONING
      In RTL: hamburger RIGHT, phone LEFT (mirror of LTR)
      =========================================== */
-  html[dir="rtl"] .mobile-toggle,
+  .mobile-toggle,
   html[lang="he"] .mobile-toggle,
-  html[lang="ar"] .mobile-toggle {
-    left: auto !important;
-    right: 15px !important;
-  }
+  html[lang="ar"] .mobile-toggle{left: auto !important;right: 15px !important;}
   
-  html[dir="rtl"] .phone-header-btn,
+  .phone-header-btn,
   html[lang="he"] .phone-header-btn,
-  html[lang="ar"] .phone-header-btn {
-    left: 15px !important;
-    right: auto !important;
-  }
+  html[lang="ar"] .phone-header-btn{left: 15px !important;right: auto !important;}
   
   /* RTL mobile menu slides from RIGHT */
-  html[dir="rtl"] .nav-menu,
+  .nav-menu,
   html[lang="he"] .nav-menu,
-  html[lang="ar"] .nav-menu {
-    left: auto !important;
-    right: 0 !important;
-  }
+  html[lang="ar"] .nav-menu{left: auto !important;right: 0 !important;}
 }
 
 
@@ -4042,40 +4389,29 @@ html[dir="rtl"] body {
 @media (max-width: 768px) {
   /* RTL Mobile Toggle (hamburger) - positioned on RIGHT */
   /* Using multiple parent selectors for higher specificity */
-  html[dir="rtl"] .navbar .mobile-toggle,
+  .navbar .mobile-toggle,
   html[dir="rtl"] nav .mobile-toggle,
   html[dir="rtl"] header .mobile-toggle,
   html[dir="rtl"] .nav-container .mobile-toggle,
-  html[dir="rtl"] .mobile-toggle {
-    left: auto !important;
-    right: 15px !important;
-  }
+  html[dir="rtl"] .mobile-toggle{left: auto !important;right: 15px !important;}
   
   /* RTL Phone Button - positioned on LEFT */
-  html[dir="rtl"] .navbar .phone-header-btn,
+  .navbar .phone-header-btn,
   html[dir="rtl"] nav .phone-header-btn,
   html[dir="rtl"] header .phone-header-btn,
   html[dir="rtl"] .nav-container .phone-header-btn,
-  html[dir="rtl"] .phone-header-btn {
-    left: 15px !important;
-    right: auto !important;
-  }
+  html[dir="rtl"] .phone-header-btn{left: 15px !important;right: auto !important;}
   
   /* RTL Mobile Menu - slides from RIGHT */
-  html[dir="rtl"] .navbar .nav-menu,
+  .navbar .nav-menu,
   html[dir="rtl"] nav .nav-menu,
   html[dir="rtl"] header .nav-menu,
   html[dir="rtl"] .nav-container .nav-menu,
-  html[dir="rtl"] .nav-menu {
-    left: auto !important;
-    right: 0 !important;
-  }
+  html[dir="rtl"] .nav-menu{left: auto !important;right: 0 !important;}
   
   /* RTL Mobile Menu Links - text align right */
-  html[dir="rtl"] .nav-menu a,
-  html[dir="rtl"] .nav-menu li {
-    text-align: right !important;
-  }
+  .nav-menu a,
+  html[dir="rtl"] .nav-menu li{text-align: right !important;}
 }
 
 /* ========== END RTL MOBILE NAVBAR FIX ========== */
