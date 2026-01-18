@@ -4220,7 +4220,7 @@ html[dir="rtl"] body{overflow-x: hidden !important;max-width: 100vw !important;}
   /* LTR: position near hamburger (which is at left: 20px), to its right */
   html:not([dir="rtl"]):not([lang="he"]):not([lang="ar"]) .nav-cta-container,
   html[dir="ltr"] .nav-cta-container {
-    left: 45px !important;
+    left: 30px !important;
     right: auto !important;
   }
   
@@ -4229,7 +4229,7 @@ html[dir="rtl"] body{overflow-x: hidden !important;max-width: 100vw !important;}
   /* of nav-container to get it closer to the hamburger */
   .nav-cta-container,
   html[lang="he"] .nav-cta-container,
-  html[lang="ar"] .nav-cta-container{right: 0 !important;left: auto !important;}
+  html[lang="ar"] .nav-cta-container{right: 30px !important;left: auto !important;}
   
   /* Language switcher preserves its inline color/fill set during generation */
 }
