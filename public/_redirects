@@ -1,39 +1,30 @@
 # Clean URL redirects for Render static hosting
+# Generated: 2026-01-18T12:43:01.202Z
 # These rewrite rules show clean URLs to users while serving .html files
 
-/story  /story.html  200
-/lookbook  /lookbook.html  200
-/privacy  /privacy.html  200
-/accessibility  /accessibility.html  200
-/terms  /terms.html  200
-/blog  /blog.html  200
-/blog/choose-kids-fit  /blog/choose-kids-fit.html  200
-/blog/sneaker-care-guide  /blog/sneaker-care-guide.html  200
-/blog/comfort-work-shoes  /blog/comfort-work-shoes.html  200
-/contact  /contact.html  200
-/blog/when-to-replace-shoes  /blog/when-to-replace-shoes.html  200
+/story  /story.html  200!
+/lookbook  /lookbook.html  200!
+/contact  /contact.html  200!
+/privacy  /privacy.html  200!
+/accessibility  /accessibility.html  200!
+/terms  /terms.html  200!
 
 # Language slug rewrites for SEO
-/en  /en/index.html  200
-/en/story  /en/story.html  200
-/en/lookbook  /en/lookbook.html  200
-/en/privacy  /en/privacy.html  200
-/en/accessibility  /en/accessibility.html  200
-/en/terms  /en/terms.html  200
-/en/blog  /en/blog.html  200
-/en/blog/choose-kids-fit  /en/blog-choose-kids-fit.html  200
-/en/blog/sneaker-care-guide  /en/blog-sneaker-care-guide.html  200
-/en/blog/comfort-work-shoes  /en/blog-comfort-work-shoes.html  200
-/en/contact  /en/contact.html  200
-/en/blog/when-to-replace-shoes  /en/blog-when-to-replace-shoes.html  200
-/en  /en/index.html  200
+/en  /en/index.html  200!
+/en/story  /en/story.html  200!
+/en/lookbook  /en/lookbook.html  200!
+/en/contact  /en/contact.html  200!
+/en/privacy  /en/privacy.html  200!
+/en/accessibility  /en/accessibility.html  200!
+/en/terms  /en/terms.html  200!
+/en  /en/index.html  200!
 
 # Legal pages - redirect old .html URLs to friendly URLs
 /privacy.html  /privacy  301
 /accessibility.html  /accessibility  301
 /terms.html  /terms  301
 
-/  /index.html  200
+/  /index.html  200!
 
 # 404 fallback
 /*  /index.html  404

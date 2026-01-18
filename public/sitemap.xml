@@ -3,7 +3,7 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://naale-rocky.zappy5.app</loc>
-    <lastmod>2026-01-17</lastmod>
+    <lastmod>2026-01-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="he" href="https://naale-rocky.zappy5.app" />
@@ -12,7 +12,7 @@
   </url>
   <url>
     <loc>https://naale-rocky.zappy5.app/en</loc>
-    <lastmod>2026-01-17</lastmod>
+    <lastmod>2026-01-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="he" href="https://naale-rocky.zappy5.app" />
@@ -21,7 +21,7 @@
   </url>
   <url>
     <loc>https://naale-rocky.zappy5.app/story</loc>
-    <lastmod>2026-01-17</lastmod>
+    <lastmod>2026-01-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="he" href="https://naale-rocky.zappy5.app/story" />
@@ -30,7 +30,7 @@
   </url>
   <url>
     <loc>https://naale-rocky.zappy5.app/en/story</loc>
-    <lastmod>2026-01-17</lastmod>
+    <lastmod>2026-01-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="he" href="https://naale-rocky.zappy5.app/story" />
@@ -39,7 +39,7 @@
   </url>
   <url>
     <loc>https://naale-rocky.zappy5.app/lookbook</loc>
-    <lastmod>2026-01-17</lastmod>
+    <lastmod>2026-01-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="he" href="https://naale-rocky.zappy5.app/lookbook" />
@@ -48,7 +48,7 @@
   </url>
   <url>
     <loc>https://naale-rocky.zappy5.app/en/lookbook</loc>
-    <lastmod>2026-01-17</lastmod>
+    <lastmod>2026-01-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="he" href="https://naale-rocky.zappy5.app/lookbook" />
@@ -56,80 +56,8 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://naale-rocky.zappy5.app/lookbook" />
   </url>
   <url>
-    <loc>https://naale-rocky.zappy5.app/blog</loc>
-    <lastmod>2026-01-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="he" href="https://naale-rocky.zappy5.app/blog" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://naale-rocky.zappy5.app/en/blog" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://naale-rocky.zappy5.app/blog" />
-  </url>
-  <url>
-    <loc>https://naale-rocky.zappy5.app/en/blog</loc>
-    <lastmod>2026-01-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="he" href="https://naale-rocky.zappy5.app/blog" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://naale-rocky.zappy5.app/en/blog" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://naale-rocky.zappy5.app/blog" />
-  </url>
-  <url>
-    <loc>https://naale-rocky.zappy5.app/blog/choose-kids-fit</loc>
-    <lastmod>2026-01-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="he" href="https://naale-rocky.zappy5.app/blog/choose-kids-fit" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://naale-rocky.zappy5.app/en/blog/choose-kids-fit" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://naale-rocky.zappy5.app/blog/choose-kids-fit" />
-  </url>
-  <url>
-    <loc>https://naale-rocky.zappy5.app/en/blog/choose-kids-fit</loc>
-    <lastmod>2026-01-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="he" href="https://naale-rocky.zappy5.app/blog/choose-kids-fit" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://naale-rocky.zappy5.app/en/blog/choose-kids-fit" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://naale-rocky.zappy5.app/blog/choose-kids-fit" />
-  </url>
-  <url>
-    <loc>https://naale-rocky.zappy5.app/blog/sneaker-care-guide</loc>
-    <lastmod>2026-01-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="he" href="https://naale-rocky.zappy5.app/blog/sneaker-care-guide" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://naale-rocky.zappy5.app/en/blog/sneaker-care-guide" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://naale-rocky.zappy5.app/blog/sneaker-care-guide" />
-  </url>
-  <url>
-    <loc>https://naale-rocky.zappy5.app/en/blog/sneaker-care-guide</loc>
-    <lastmod>2026-01-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="he" href="https://naale-rocky.zappy5.app/blog/sneaker-care-guide" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://naale-rocky.zappy5.app/en/blog/sneaker-care-guide" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://naale-rocky.zappy5.app/blog/sneaker-care-guide" />
-  </url>
-  <url>
-    <loc>https://naale-rocky.zappy5.app/blog/comfort-work-shoes</loc>
-    <lastmod>2026-01-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="he" href="https://naale-rocky.zappy5.app/blog/comfort-work-shoes" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://naale-rocky.zappy5.app/en/blog/comfort-work-shoes" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://naale-rocky.zappy5.app/blog/comfort-work-shoes" />
-  </url>
-  <url>
-    <loc>https://naale-rocky.zappy5.app/en/blog/comfort-work-shoes</loc>
-    <lastmod>2026-01-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="he" href="https://naale-rocky.zappy5.app/blog/comfort-work-shoes" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://naale-rocky.zappy5.app/en/blog/comfort-work-shoes" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://naale-rocky.zappy5.app/blog/comfort-work-shoes" />
-  </url>
-  <url>
     <loc>https://naale-rocky.zappy5.app/contact</loc>
-    <lastmod>2026-01-17</lastmod>
+    <lastmod>2026-01-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="he" href="https://naale-rocky.zappy5.app/contact" />
@@ -138,7 +66,7 @@
   </url>
   <url>
     <loc>https://naale-rocky.zappy5.app/en/contact</loc>
-    <lastmod>2026-01-17</lastmod>
+    <lastmod>2026-01-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="he" href="https://naale-rocky.zappy5.app/contact" />
@@ -146,26 +74,8 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://naale-rocky.zappy5.app/contact" />
   </url>
   <url>
-    <loc>https://naale-rocky.zappy5.app/blog/when-to-replace-shoes</loc>
-    <lastmod>2026-01-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="he" href="https://naale-rocky.zappy5.app/blog/when-to-replace-shoes" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://naale-rocky.zappy5.app/en/blog/when-to-replace-shoes" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://naale-rocky.zappy5.app/blog/when-to-replace-shoes" />
-  </url>
-  <url>
-    <loc>https://naale-rocky.zappy5.app/en/blog/when-to-replace-shoes</loc>
-    <lastmod>2026-01-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="he" href="https://naale-rocky.zappy5.app/blog/when-to-replace-shoes" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://naale-rocky.zappy5.app/en/blog/when-to-replace-shoes" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://naale-rocky.zappy5.app/blog/when-to-replace-shoes" />
-  </url>
-  <url>
     <loc>https://naale-rocky.zappy5.app/privacy</loc>
-    <lastmod>2026-01-17</lastmod>
+    <lastmod>2026-01-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="he" href="https://naale-rocky.zappy5.app/privacy" />
@@ -174,7 +84,7 @@
   </url>
   <url>
     <loc>https://naale-rocky.zappy5.app/en/privacy</loc>
-    <lastmod>2026-01-17</lastmod>
+    <lastmod>2026-01-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="he" href="https://naale-rocky.zappy5.app/privacy" />
@@ -183,7 +93,7 @@
   </url>
   <url>
     <loc>https://naale-rocky.zappy5.app/terms</loc>
-    <lastmod>2026-01-17</lastmod>
+    <lastmod>2026-01-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="he" href="https://naale-rocky.zappy5.app/terms" />
@@ -192,7 +102,7 @@
   </url>
   <url>
     <loc>https://naale-rocky.zappy5.app/en/terms</loc>
-    <lastmod>2026-01-17</lastmod>
+    <lastmod>2026-01-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="he" href="https://naale-rocky.zappy5.app/terms" />
@@ -201,7 +111,7 @@
   </url>
   <url>
     <loc>https://naale-rocky.zappy5.app/accessibility</loc>
-    <lastmod>2026-01-17</lastmod>
+    <lastmod>2026-01-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="he" href="https://naale-rocky.zappy5.app/accessibility" />
@@ -210,7 +120,7 @@
   </url>
   <url>
     <loc>https://naale-rocky.zappy5.app/en/accessibility</loc>
-    <lastmod>2026-01-17</lastmod>
+    <lastmod>2026-01-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="he" href="https://naale-rocky.zappy5.app/accessibility" />
